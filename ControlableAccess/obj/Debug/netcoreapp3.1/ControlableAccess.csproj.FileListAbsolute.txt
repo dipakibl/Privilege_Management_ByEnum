@@ -1,0 +1,13 @@
+C:\DipakItaliya\DemoofEnum\ControlableAccess\ControlableAccess\bin\Debug\netcoreapp3.1\ControlableAccess.exe
+C:\DipakItaliya\DemoofEnum\ControlableAccess\ControlableAccess\bin\Debug\netcoreapp3.1\ControlableAccess.deps.json
+C:\DipakItaliya\DemoofEnum\ControlableAccess\ControlableAccess\bin\Debug\netcoreapp3.1\ControlableAccess.runtimeconfig.json
+C:\DipakItaliya\DemoofEnum\ControlableAccess\ControlableAccess\bin\Debug\netcoreapp3.1\ControlableAccess.runtimeconfig.dev.json
+C:\DipakItaliya\DemoofEnum\ControlableAccess\ControlableAccess\bin\Debug\netcoreapp3.1\ControlableAccess.dll
+C:\DipakItaliya\DemoofEnum\ControlableAccess\ControlableAccess\bin\Debug\netcoreapp3.1\ControlableAccess.pdb
+C:\DipakItaliya\DemoofEnum\ControlableAccess\ControlableAccess\obj\Debug\netcoreapp3.1\ControlableAccess.csproj.AssemblyReference.cache
+C:\DipakItaliya\DemoofEnum\ControlableAccess\ControlableAccess\obj\Debug\netcoreapp3.1\ControlableAccess.AssemblyInfoInputs.cache
+C:\DipakItaliya\DemoofEnum\ControlableAccess\ControlableAccess\obj\Debug\netcoreapp3.1\ControlableAccess.AssemblyInfo.cs
+C:\DipakItaliya\DemoofEnum\ControlableAccess\ControlableAccess\obj\Debug\netcoreapp3.1\ControlableAccess.csproj.CoreCompileInputs.cache
+C:\DipakItaliya\DemoofEnum\ControlableAccess\ControlableAccess\obj\Debug\netcoreapp3.1\ControlableAccess.dll
+C:\DipakItaliya\DemoofEnum\ControlableAccess\ControlableAccess\obj\Debug\netcoreapp3.1\ControlableAccess.pdb
+C:\DipakItaliya\DemoofEnum\ControlableAccess\ControlableAccess\obj\Debug\netcoreapp3.1\ControlableAccess.genruntimeconfig.cache
